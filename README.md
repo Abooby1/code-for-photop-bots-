@@ -3,6 +3,8 @@ All this code is for making your bot use all the stuff that photop-client offers
 
 IMPORTANT: Make sure you go into package.json file and add: "type": "module" to make all of this code work
 
+With this code in your photop bot, you can connect your bot and let people use their EcoBot money to buy items from your bot! (to add your bot, dm: Abooby#5598 in discord)
+
 Info:
 
 - file: command_entry.js - This file make the commands that are sent inside the chat of a post (that is connected) work
