@@ -3,7 +3,7 @@ const NameVar = {
   func: ({chat})=>{
     command use
   },
-  description: "command description"
+  description: "command description",
   permission: "rank permission to use the command (optional)"
 };
 

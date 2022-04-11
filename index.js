@@ -16,7 +16,7 @@ client.onPost = async (post) => {
   if (post.text.match(START)) {
     setTimeout(function( ) {
       resetTimeout()
-      post.chat(`Say ${PREFIX}help to get a list of commands.`)
+      post.chat(`Im now connected to ${post.author.username}'s post!`)
     }, 2000)
   }
 

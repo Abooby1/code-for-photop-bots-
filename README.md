@@ -8,7 +8,7 @@ With this code in your photop bot, you can connect your bot and let people use t
 Info:
 
 - file: command_entry.js - This file make the commands that are sent inside the chat of a post (that is connected) work
-- file: database.js - This file makes the data for a user that connects a post with the bot
+- file: database.js - This file makes the data for a user that connects a post with the bot (add ranks if you want permissions to work)
 - file: index.js - This file makes the bot work (make sure that you change the photop bot credentials)
 - file: constants.js - This file stores your prefix(PREFIX), post connecting word (START), and other random little things
 - folder: commands - This file holds all your commands!
