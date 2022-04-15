@@ -1,7 +1,9 @@
 All this code is for making your bot use all the stuff that photop-client offers! 
 -
 
-IMPORTANT: Make sure you go into package.json file and add: "type": "module" to make all of this code work
+IMPORTANT: Make sure you go into package.json file and add: "type": "module" | Also search for the file called ".replit" and delete everything in that file, then write "run: "node ."" | Both of these actions will make the code work!
+
+If you are using VSCode instead of replit, go to database.js and change what database you want it to have.
 
 With this code in your photop bot, you can connect your bot and let people use their EcoBot money to buy items from your bot! (to add your bot, dm: Abooby#5598 in discord)
 
