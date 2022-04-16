@@ -1,6 +1,6 @@
 const NameVar = {
   names: ["commandname"],
-  func: ({chat})=>{
+  func: ({chat})=>{ //can add: userData (for data), body (the text after the command), args: [] (args....), post (for post.chat and other post things), and client (for client.post and other client things)
     command use
   },
   description: "command description",
