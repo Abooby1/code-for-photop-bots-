@@ -5,7 +5,7 @@ IMPORTANT: Make sure you go into package.json file and add: "type": "module" | A
 
 If you are using VSCode instead of replit, go to database.js and change what database you want it to have.
 
-With this code in your photop bot, you can connect your bot and let people use their EcoBot money to buy items from your bot! (to add your bot, dm: Abooby#5598 in discord)
+With this code in your bot, you will use photop-client to its highest limits! Also, you can add your bot into the EcoBot marketplace! (Ads, others buy items with their EcoBot money, and much more | To add your bot, dm: Abooby#5598 in discord)
 
 Info:
 
