@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "@replit/database": "^2.0.1",
-    "photop-client": "^3.1.5"
+    "photop-client": "^3.2.2"
   }
 }
