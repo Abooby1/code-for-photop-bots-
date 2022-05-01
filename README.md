@@ -1,7 +1,7 @@
 All this code is for making your bot use all the stuff that photop-client offers! 
 -
 
-IMPORTANT: Make sure you go into package.json file and add: "type": "module" | Also search for the file called ".replit" and delete everything in that file, then write "run: "node ."" | Both of these actions will make the code work!
+IMPORTANT: Make sure you go into package.json file and add: "type": "module" | Also search for the file called ".replit" and delete everything in that file, then write "run: "node ."" Also, if you have the commands in different folders. Make sure you import the right files in <help.js> | Both of these actions will make the code work!
 
 The current db should work on vscode and replit! You wont have to change it!
 
