@@ -1,7 +1,5 @@
-import Database from "@replit/database";
+import db from "quick.db";
 import {DATABASE_PREFIX} from "./constants.js";
-
-const db = new Database();
 
 /*
 ranks: 

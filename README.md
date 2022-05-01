@@ -3,7 +3,7 @@ All this code is for making your bot use all the stuff that photop-client offers
 
 IMPORTANT: Make sure you go into package.json file and add: "type": "module" | Also search for the file called ".replit" and delete everything in that file, then write "run: "node ."" | Both of these actions will make the code work!
 
-If you are using VSCode instead of replit, go to database.js and change what database you want it to have.
+The current db should work on vscode and replit! You wont have to change it!
 
 With this code in your bot, you will use photop-client to its highest limits! Also, you can add your bot into the EcoBot marketplace! (Ads, others buy items with their EcoBot money, and much more | To add your bot, dm: Abooby#5598 in discord)
 
