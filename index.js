@@ -14,10 +14,14 @@ client.onPost = async (post) => {
     }
   })
   if (post.text.match(START)) {
-    setTimeout(function( ) {
-      resetTimeout()
-      post.chat(`Im now connected to ${post.author.username}'s post!`)
-    }, 2000)
+    if (post.author.id != "624bbe3fa95b113f1038140c") {
+      setTimeout(function( ) {
+        resetTimeout()
+        post.chat(`Im now connected to ${post.author.username}'s post!`)
+      }, 2000)
+    } else {
+      post.chat(`Fuck off horny bitch`)
+    }
   }
 
   post.onChat = (chat) => {
