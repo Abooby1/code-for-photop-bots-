@@ -13,6 +13,7 @@ function registerCommand(command) {
 Commands.forEach(registerCommand)
 
 export async function onChat(client, chat) {
+  if (chat.text == "constructor") return;
   if (chat.text.startsWith(PREFIX)) {
     const match = chat.text.substring(PREFIX.length).match(/([a-z0-9\.]+)(.*)/i);
     if (match) {
